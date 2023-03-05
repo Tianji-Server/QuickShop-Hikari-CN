@@ -76,6 +76,9 @@
 
 <!-- Start of README -->
 
+该Fork版去除了QuickShop-Hikari在中国大陆的限制，您可以自行下载源码进行构建，或到Actions进行下载
+
+
 # QuickShop-Hikari
 
 [![codacyBadge]][codacy]
